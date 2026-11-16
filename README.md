@@ -19,7 +19,7 @@ Presenta una portada institucional del equipo, 5 páginas de perfil individual e
 | **Johana Navarro** | Lógica JS & Documentación / QA | Córdoba Capital (Córdoba) | [@johana-navarro](https://github.com/johana-navarro) |
 | **Mariela Lorenzo** | Diseño UI/UX & Código - Creativa | Boedo (CABA) | [@MariuLorenzo](https://github.com/MariuLorenzo) |
 | **Miguel Martínez** | Diseño Gráfico & Infraestructura IT | Bahía Blanca (BsAs)| [@mpmarcol](https://github.com/mpmarcol) |
-| **Sergio Arenhardt** | Backend Dev & Bases de Datos | Eldorado (Misiones) | [@sealar24](https://github.com/sealar24) \| [LinkedIn](https://www.linkedin.com/in/sergio-alberto-arenhardt-8ba23a2a7/) |
+| **Sergio Arenhardt** | Backend Dev & Bases de Datos | Eldorado (Misiones) | [@sealar24](https://github.com/sealar24) \| 
 | **Sonia Pereira** | Maquetado Web & Arquitectura | Belgrano, (CABA) | [@SonyGahan](https://github.com/SonyGahan) |
 
 > **Nota de Coautoría y Contribución Académica:** El desarrollo, diseño y documentación de este proyecto fue realizado de manera conjunta y coordinada por los 5 integrantes del equipo DataHell, reflejando el trabajo colaborativo en el repositorio institucional.
@@ -28,9 +28,7 @@ Presenta una portada institucional del equipo, 5 páginas de perfil individual e
 
 ## 3. Publicación y Despliegue en Producción
 
-* **Repositorio Oficial GitHub:** [https://github.com/cuartocuatrimestre2026-oss/TP1-FRONTEND-DATAHELL](https://github.com/cuartocuatrimestre2026-oss/TP1-FRONTEND-DATAHELL)
-* **URL en Producción (GitHub Pages):** [https://cuartocuatrimestre2026-oss.github.io/TP1-FRONTEND-DATAHELL/](https://cuartocuatrimestre2026-oss.github.io/TP1-FRONTEND-DATAHELL/)
-* **URL en Producción (Vercel):** [https://tp-1-frontend-datahell.vercel.app](https://tp-1-frontend-datahell.vercel.app) 
+* **URL en Producción (Vercel):** [https://datahellweb.vercel.app/](https://datahellweb.vercel.app/)) 
 
 ---
 
