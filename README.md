@@ -1,12 +1,12 @@
-# Trabajo Práctico Grupal 1 - Equipo DataHell
+# Trabajo Práctico Grupal - Equipo DataHell
 
-Bienvenido/a al repositorio oficial del **Trabajo Práctico Grupal 1** para la materia "Desarrollo Web Frontend" del IFTS N°29.
+Bienvenido/a al proyecto del **Trabajo Práctico Grupal 1** para la materia "Desarrollo Web Frontend" del IFTS N°29.
 
 ---
 
 ## 1. Descripción del Proyecto
 
-Este proyecto consiste en un sitio web grupal maquetado con **HTML5**, **CSS3** y **JavaScript** sin librerías externas pesadas, diseñado bajo una estética de elección colectiva y con cumplimiento estricto de accesibilidad **WCAG AAA**. 
+Este proyecto consiste en la primera etapa de un sitio web grupal maquetado con **HTML5**, **CSS3** y **JavaScript** sin librerías externas pesadas, diseñado bajo una estética de elección colectiva y con cumplimiento estricto de accesibilidad **WCAG AAA**. 
 
 Presenta una portada institucional del equipo, 5 páginas de perfil individual estructuradas, una sección de bitácora que registra el proceso colaborativo, y un diseño responsive adaptable ajustado a los breakpoints requeridos (400 px, 900 px y 1200 px).
 
